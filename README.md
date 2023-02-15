@@ -6,7 +6,8 @@
 - 
 
 
-![](https://cdn.jsdelivr.net/gh/jer2008/jer2008@main/assets/github-contribution-grid-snake.svg)
+
+![snake](./assets/github-contribution-grid-snake.svg)
 
 Welcome to my blog (https://blog.021d.com).
 
