@@ -11,4 +11,4 @@
 Welcome to my blog (https://blog.021d.com).
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Robin021&theme=onedark&title=MultiLanguage)](https://github.com/Robin021/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Robin021&theme=onedark)](https://github.com/Robin021/github-profile-trophy)
