@@ -7,7 +7,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/jer2008/jer2008@main/assets/github-contribution-grid-snake.svg)
 
-Welcome to my blog (https://blog.jersite.gq).
+Welcome to my blog (https://blog.021d.com).
 
 <!---
 jer2008/jer2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
